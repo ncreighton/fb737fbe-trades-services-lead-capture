@@ -1,2 +1,28 @@
-# fb737fbe-trades-services-lead-capture
-manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Tra
+# Trades & Services Lead Capture and CRM Sync N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIeVdbHhcYIbRSeM4cZK2Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIeVdbHhcYIbRSeM4cZK2Z)
+
